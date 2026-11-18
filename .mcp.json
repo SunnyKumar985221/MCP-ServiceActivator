@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "service-activator": {
+      "type": "http",
+      "url": "https://mcp.abren.ai/mcp"
+    }
+  }
+}

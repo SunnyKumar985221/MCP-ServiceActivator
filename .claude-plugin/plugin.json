@@ -1,0 +1,21 @@
+{
+  "name": "service-activator",
+  "displayName": "Service Activator",
+  "version": "1.0.0",
+  "description": "Work with Service Activator jobs, work orders, customers, contacts, properties and invoices in plain language. Looks IDs up by name, validates like the web app and confirms before saving.",
+  "author": {
+    "name": "Service Activator",
+    "url": "https://www.myserviceactivator.com"
+  },
+  "homepage": "https://www.myserviceactivator.com",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "service-activator",
+    "field-service",
+    "jobs",
+    "work-orders",
+    "customers",
+    "invoices"
+  ],
+  "privacyPolicyUrl": "https://www.myserviceactivator.com/privacy-policy/"
+}
